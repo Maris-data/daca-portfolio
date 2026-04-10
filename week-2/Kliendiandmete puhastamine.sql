@@ -33,7 +33,7 @@ SELECT city, COUNT(*) FROM customers_test
 GROUP BY city HAVING COUNT(*) > 1;
 
 
---Edasijõudnud, Asenda NULL nimed
+--Asenda NULL nimed
 UPDATE customers_test
 SET first_name = 'Tundmatu'
 WHERE first_name IS NULL OR first_name = '';
