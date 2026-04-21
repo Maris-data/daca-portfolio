@@ -1,15 +1,15 @@
--- Loo tabel
+-- Uue tabeli loomine
 CREATE TABLE team_members (
-    id SERIAL PRIMARY KEY,
-    name VARCHAR(100) NOT NULL,
+    id SERIAL PRIMARY KEY,                      -- tähendab, et id väärtus genereeritakse automaatselt (1, 2, 3...) ja on iga rea unikaalne tunnus
+    name VARCHAR(100) NOT NULL,                 -- see veerg ei tohi olla tühi (nimi on kohustuslik)
     role VARCHAR(100),
-    week INT DEFAULT 0,
-    joined_at TIMESTAMP DEFAULT NOW()
+    week INT DEFAULT 0,                          -- kui sa ei anna week väärtust, on see automaatselt 0
+    joined_at TIMESTAMP DEFAULT NOW()            -- kui sa ei anna aega, kasutab andmebaas praegust ajahetke
 );
 
---lisa nimed 
+--lisa tabelisse nimed/andmed 
 INSERT INTO team_members (name, role, week) VALUES
-    ('Maris Eenmaa', 'Andmeanalüütik', 0),
+    ('Maris Kuusk', 'Andmeanalüütik', 0),
     ('Toomas Kask', 'IT Director', 0),
     ('Kristi Tamm', 'CEO', 0),
     ('Anna Mets', 'Marketing Lead', 0);
@@ -27,7 +27,7 @@ CREATE TABLE products (
     created_at    DATE NOT NULL                    -- Toote lisamise kuupäev
 );
 
---loenda 
+--loendan  
 SELECT COUNT(*) FROM sales_import;
 
 --sorteeri hinna järgi
