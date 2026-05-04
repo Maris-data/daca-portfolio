@@ -11,8 +11,8 @@ See repositoorium sisaldab minu DACA õppeprojekte ja portfoolio.
 ## Projektid
  
 ### Week 0: Onboarding
-- GitHub seadistamine ✅
-- Supabase seadistamine ✅
+- GitHub seadistamine 
+- Supabase seadistamine 
  
 ### Week 1: SQL Põhitõed
 - UrbanStyle’i kliendiandmete eksploratsioon ja kvaliteedikontroll:
@@ -20,9 +20,11 @@ See repositoorium sisaldab minu DACA õppeprojekte ja portfoolio.
 - Andmete sorteerimine ja piiramine
 - Unikaalsed väärtused ja loendamine
 - Puuduvate andmete tuvastamine
+**Olulisemad leiud**
 - Kokku on 3150 e-maili, kuid unikaalseid on 2640. Puudu on 380 kliedi e-mailid (12,1%).
-- City veerus on 54 erinevat linnakuju, tegelikult  12.
-- Ettepanek kehtesta andmesisestus reeglid: muuta kliendi_id väljad kohustuslikuks, linnade sisestamine ilma kordusteta, kiiresti teha e-mailide korrastamine. 
+- City veerus on 54 erinevat linnakuju, tegelikult 12.
+- Ettepanek kehtesta andmesisestus reeglid: muuta kliendi_id väljad kohustuslikuks, linnade sisestamine ilma kordusteta,
+- Kiiresti teha e- mailide korrastamine. 
  
 ### Week 2: SQL Andmete puhastamine
 - UrbanStyle’i kliendi- ja müügiandmete puhastamise metodoloogia
@@ -30,7 +32,7 @@ See repositoorium sisaldab minu DACA õppeprojekte ja portfoolio.
 - NULL väärtuste ja puuduvate andmete käsitlemine
 - Tekstiväljade ja kuupäevade ühtlustamine
 - Turvalised transaktsioonid
-- Olulisemad leiud: 
+**Olulisemad leiud:** 
 - 5116 duplikaati (33% kõigist ridadest)
 - 592 klienti pole kunagi ostnud
 - 305 tagastust negatiivse hinnaga
@@ -41,16 +43,45 @@ See repositoorium sisaldab minu DACA õppeprojekte ja portfoolio.
 - JOIN- kasutamine ja mitme tabeli ühendamine
 - Tabeli aliase kasutamine
 - Andmete kvaliteedikontroll
-- Olulisemad leiud: 
+  **Olulisemad leiud:** 
 - Müükide arvult on meeste riided esikohal, kuid kogumüügi summa järgi juhivad jalatsid.
 - 12 toodet pole kunagi müüdud
 - Soovitus teha laos inventuur ja tellida juurde tooteid
+
+### Week 4: Andmete agregeerimine
+- Agregaatfunktsioonid (COUNT,AVG, MIN, MAX jm)
+- Filtreerimine ja grupeerimine
+- CTE vahetabelite loomine
+- Aknafunktsioonid ja võrdlusfunktsioonid
+- Äriliste KPI-de arvutamine 
+  **Olulisemad leiud**
+- Müükide arvult on meeste riided esikohal, kuid kogumüügi summa järgi juhivad jalatsid.
+- Soovitus teha laos inventuur ja tellida juurde tooteid.
+
+### Week 5: Andmete visualiseerimise põhimõtted ja strateegiline disain
+- Õige diagrammitüübi valik
+- KPI kaardid (Hero numbers)
+- Data-ink ratio põhimõte (Tufte, "vähem on rohkem")
+- Dashboardide paigutus ja kasutajakogemus
+- Värviteooria ja ligipääsetavus
+- Praktilise UrbanStyle-i investoritele suunatud dashboardi koostamine
+  **Olulisemad leiud**
+- Suurima müügitulu  toob Tallinna pood: 1,1  mln eurot. Online-kanal kasvab,  müügitulu 1,03 mln eurot.
+- Online-kanal  toob üha rohkem uusi kliente.
+- Uute klientide arv on langenud 2023. a algusega võrreldes 4 korda. Pärnu poe müük seisab.
+
+### Week 6: Andmelugude jutustamine (Data Storytelling) 
+- Andmelugude jutustamine
+- Raamistik - Ülesseade-Konflikt-Andmed-Lahendus-Tegevus
+- Juhtide kokkuvõtte raamistik
+- Annotatsioonide ja viitejoonte lisamine
+  **Olulisemad leiud**
 
 ## Oskused
  
 - **SQL:** PostgreSQL, Supabase
 - **Python:** pandas, plotly (tulemas...)
-- **Visualiseerimine:** Power BI / Streamlit (tulemas...)
+- **Visualiseerimine:** Power BI 
 - **Tööriistad:** Git, GitHub, VS Code
  
 ## Kontakt
