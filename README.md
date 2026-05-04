@@ -46,7 +46,7 @@ See repositoorium sisaldab minu DACA õppeprojekte ja portfoolio.
 - Tabeli aliase kasutamine
 - Andmete kvaliteedikontroll
   
-  **Olulisemad leiud:** 
+**Olulisemad leiud:** 
 - Müükide arvult on meeste riided esikohal, kuid kogumüügi summa järgi juhivad jalatsid.
 - 12 toodet pole kunagi müüdud
 - Soovitus teha laos inventuur ja tellida juurde tooteid
@@ -58,7 +58,7 @@ See repositoorium sisaldab minu DACA õppeprojekte ja portfoolio.
 - Aknafunktsioonid ja võrdlusfunktsioonid
 - Äriliste KPI-de arvutamine
    
-  **Olulisemad leiud**
+**Olulisemad leiud**
 - Müükide arvult on meeste riided esikohal, kuid kogumüügi summa järgi juhivad jalatsid.
 - Soovitus teha laos inventuur ja tellida juurde tooteid.
 
@@ -70,7 +70,7 @@ See repositoorium sisaldab minu DACA õppeprojekte ja portfoolio.
 - Värviteooria ja ligipääsetavus
 - Praktilise UrbanStyle-i investoritele suunatud dashboardi koostamine
   
-  **Olulisemad leiud**
+**Olulisemad leiud**
 - Suurima müügitulu  toob Tallinna pood: 1,1  mln eurot. Online-kanal kasvab,  müügitulu 1,03 mln eurot.
 - Online-kanal  toob üha rohkem uusi kliente.
 - Uute klientide arv on langenud 2023. a algusega võrreldes 4 korda. Pärnu poe müük seisab.
@@ -81,7 +81,7 @@ See repositoorium sisaldab minu DACA õppeprojekte ja portfoolio.
 - Juhtide kokkuvõtte raamistik
 - Annotatsioonide ja viitejoonte lisamine
   
-  **Olulisemad leiud**
+**Olulisemad leiud**
 
 ## Oskused
  
