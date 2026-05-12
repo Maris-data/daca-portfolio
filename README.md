@@ -93,11 +93,14 @@ See repositoorium sisaldab minu DACA õppeprojekte ja portfoolio.
 - Tulemuste visualiseerimine Plotly abil
   
 **Olulisemad leiud**
+- UrbanStyle’i kliendibaasis on 2540 klienti ja kogukäive 2,7 miljonit eurot, kuid käive sõltub tugevalt VIP-klientidest, kes moodustavad 18% kliendibaasist ja annavad 43% kogukäibest.
+- Kokku on  531 At Risk klienti ehk ligikaudu 21% kliendibaasist, kelle tagasivõitmine võib anda otsese mõõdetava mõju käibele. 
+- Peamine äriline fookus peaks olema VIP-klientide hoidmisel, At Risk klientide aktiveerimisel ning Potential klientide arendamisel lojaalsemateks kordusostjateks.
 
 ## Oskused
  
 - **SQL:** PostgreSQL, Supabase
-- **Python:** pandas, plotly (tulemas...)
+- **Python:** pandas, plotly 
 - **Visualiseerimine:** Power BI 
 - **Tööriistad:** Git, GitHub, VS Code
  
