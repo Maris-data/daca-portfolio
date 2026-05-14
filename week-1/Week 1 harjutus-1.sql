@@ -1,6 +1,6 @@
-
-/* Pikk kommentaari jaoks 
-Siin mitu rida 
+Harjutus_loeng
+/* Pika kommentaari jaoks 
+kuid on mitu rida 
 */
 --Anna müügi tabelist 5
 SELECT * FROM sales LIMIT 5
