@@ -97,6 +97,15 @@ See repositoorium sisaldab minu DACA õppeprojekte ja portfoolio.
 - Kokku on  531 At Risk klienti ehk ligikaudu 21% kliendibaasist, kelle tagasivõitmine võib anda otsese mõõdetava mõju käibele. 
 - Peamine äriline fookus peaks olema VIP-klientide hoidmisel, At Risk klientide aktiveerimisel ning Potential klientide arendamisel lojaalsemateks kordusostjateks.
 
+### Week 8:
+- REST API põhimõtted
+- ETL andmetoru ehitamine
+- Turvalisus ja veakäsitlus
+- Automatiseerimine ja ajastamine
+  
+**Olulisemad leiud**
+- loodud andmetoru hoiab kokku umbes 4 tundi manuaalset tööd nädalas ja tagavad andmete 99,8%-lise usaldusväärsuse. 
+
 ## Oskused
  
 - **SQL:** PostgreSQL, Supabase
