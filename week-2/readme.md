@@ -1,23 +1,74 @@
-MEESKOND: Sales Analytics | NÄDAL: 2 | TEGELANE: Toomas Kask
-ANDMEKVALITEEDI KOONDRAPORT
+#  NÄDAL: 2  UrbanStyle andmete puhastamine ja andmekvaliteedi koondraport
 
-PEAMISED LEIUD:                                             
-Kvaliteedikontroll 
-Hinna ebakõlad-	664	Müügihind ei klapi tootehinnaga
-Vaimkliendid-	592	Klient ei ole kunagi ostnud
-Vaimtooted- 12	Toodet pole kunagi müüdud
+## Projekti eesmärk
 
-SUURIM ÜLLATUS:
-5 116 duplikaati paisutas müügitulu kunstlikult — tegelik number on 1,4 miljoni võrra  madalam
-64 müügihind ei klapi tootehinnaga. Sales tabelis on 305 tagastust, mis on kirjendatud negatiivse total_price'ina. 
-Enne tulu analüüsi tuleb need välja filtreerida.
+UrbanStyle’i kliendi-, toote- ja müügiandmetes esines mitu andmekvaliteedi probleemi, mis moonutasid müügitulu, kliendianalüüsi ja tootevaliku hindamist.
 
-SOOVITUS TOOMASELE:
-592 klienti ei ole kunagi ostnud  - ärivõimalus!
-Hinnaerinevused vajavad analüüsi! Tõenäoliselt on tagastused sisestatud negatiivse müügina.
-Soovitame 592 vaimkliendile saata meelitav kiri   ja 12 toodet mida pole müüdud, kontrollida veebilehel nähtavus
+Sales Analytics puhastas andmestiku ning koostas koondraporti, et tuvastada peamised riskid, mõõta nende mõju ja anda soovitused edasiseks tööks.
 
-PUUDUVAD ANDMED:
-Duplikaatsed nimed (12 probleemi) mõjutavad tooteanalüüsi kõige rohkem. Selle tulemusena on müügistatistika moonutatud ja
-täpne inventuur takistatud.
-Hindade ebakõla mõjutab igapäevast tööd kõige rohkem, suurim erinevus hindades oli 2810 euri.  
+## Suurim avastus
+
+- Andmestikus oli 5 116 duplikaatkirjet, mis paisutasid müügitulu kunstlikult.
+
+- Pärast duplikaatide eemaldamist selgus, et tegelik müügitulu on ligikaudu 1,4 miljonit eurot madalam kui puhastamata andmestikus.
+
+## Hinnaerinevused ja tagastused
+
+Andmestikus tuvastati 664 hinnaebakõla, kus müügihind ei klappinud tootetabelis oleva hinnaga.
+
+Sales tabelis oli lisaks 305 tagastust, mis olid kirjendatud negatiivse total_price väärtusena.
+
+Need kirjed tuleb enne tuluanalüüsi eraldi käsitleda, sest muidu segunevad müük ja tagastused ühes mõõdikus.
+
+## Puuduvad ja probleemsed andmed
+
+Duplikaatsed tootenimed mõjutasid tooteanalüüsi kõige rohkem. Kokku tuvastati 12 probleemset toodet, mis moonutasid müügistatistikat ja raskendasid täpset inventuuri.
+
+Hinna ebakõlad mõjutasid igapäevast tööd kõige otsesemalt. Suurim tuvastatud hinnaerinevus oli 2 810 eurot.
+
+## Äriline mõju
+
+Andmekvaliteedi probleemid mõjutasid kolme peamist valdkonda:
+- Müügitulu analüüs
+Duplikaadid paisutasid tulu ning andsid tegelikust müügist vale pildi.
+- Kliendianalüüs
+592 klienti olid andmebaasis, kuid ei olnud ostnud. See segment vajab eraldi käsitlust, sest tegemist on potentsiaalse müügivõimalusega.
+- Tooteanalüüs
+12 toodet ei olnud kordagi müüdud. Nende puhul tuleb kontrollida nähtavust, hinda, saadavust ja tooteandmete korrektsust.
+
+## Soovitused Toomasele
+1. Eemalda duplikaadid enne igat tuluanalüüsi. Duplikaadid mõjutasid müügitulu kõige rohkem. Analüüsides tuleb kasutada ainult puhastatud andmestikku.
+
+2. Käsitle tagastusi eraldi. Negatiivse total_price väärtusega read tuleb eraldada tavalisest müügist. 
+
+3. Kontrolli hinnaerinevusi. 664 hinnaebakõla vajavad täiendavat analüüsi. Eriti oluline on kontrollida, kas erinevused tulenevad kampaaniatest, tagastustest, sisestusvigadest või tootehinna muutustest.
+
+4. Võta ühendust vaimklientidega. 592 klienti ei ole ostu teinud. Neile saab luua eraldi aktiveerimiskampaania, näiteks esimese ostu pakkumise või personaalse meeldetuletuse.
+
+5. Kontrolli müümata tooteid. 12 toodet, mida pole kordagi müüdud, tuleb üle vaadata veebipoes ja sisemistes süsteemides.
+
+
+## Olulisemad tulemused:
+Puhastuse järel on UrbanStyle’il parem alus müügi-, kliendi- ja tooteanalüüsiks.
+- tuvastati 5 116 duplikaatkirjet
+- korrigeeritud müügitulu on 1,4 miljonit eurot madalam
+- leiti 664 hinnaebakõla
+- eraldati 305 tagastust
+- tuvastati 592 ostuta klienti
+- tuvastati 12 müümata toodet
+
+## Tööriistad
+Analüüsi ja andmete puhastamiseks kasutati:
+- Python
+- pandas
+- Jupyter Notebook
+- CSV-andmestikud
+- andmekvaliteedi kontrollid
+- duplikaatide tuvastamine
+- hinnaerinevuste kontroll
+- kliendi- ja tooteandmete võrdlus müügitabeliga
+  
+## Kokkuvõte
+UrbanStyle’i andmestikus olid peamised probleemid duplikaadid, hinnaerinevused, tagastuste käsitlus, ostuta kliendid ja müümata tooted.
+
+Kõige suurem mõju tuli duplikaatidest, mis paisutasid müügitulu 1,4 miljoni euro võrra. Edaspidi tuleb tuluanalüüs teha ainult puhastatud andmetel ning tagastused tuleb hoida tavalisest müügist eraldi.
