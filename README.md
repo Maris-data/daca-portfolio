@@ -107,6 +107,8 @@ See repositoorium sisaldab minu DACA õppeprojekte ja portfoolio.
 - loodud andmetoru hoiab kokku umbes 4 tundi manuaalset tööd nädalas ja tagavad andmete 99,8%-lise usaldusväärsuse. 
 
 ## Oskused
+
+ ! [SQL] (https://img.shields.io/badge/SQL-Analysis-blue) ! [Power BI] (https://img. shields. io/badge/Power%20BI-Dashboard-yellow) ! [Excel] (https://img.shields. io/badge/Excel-Reporting_green) ! [Tableau] (https://img. shields. io/badge/Tableau-Visualization-orange)
  
 - **SQL:** PostgreSQL, Supabase
 - **Python:** pandas, plotly 
