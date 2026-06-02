@@ -104,7 +104,15 @@ See repositoorium sisaldab minu DACA õppeprojekte ja portfoolio.
 - Automatiseerimine ja ajastamine
   
 **Olulisemad leiud**
-- loodud andmetoru hoiab kokku umbes 4 tundi manuaalset tööd nädalas ja tagavad andmete 99,8%-lise usaldusväärsuse. 
+- loodud andmetoru hoiab kokku umbes 4 tundi manuaalset tööd nädalas ja tagavad andmete 99,8%-lise usaldusväärsuse.
+
+### Week 9-10:
+- Portfoolio kaitsmine ja süntees 
+-	LinkedIn-i ja CV optimeerimine
+- Värbamisprotsessi mõistmine ja intervjuu strateegia
+-	5-minutiline "Investor Pitch"
+- Tervikanalüüsi loomine
+-	Andmetega lugude jutustamine (Data Storytelling) 
 
 ## Oskused
 ![SQL](https://img.shields.io/badge/SQL-Analysis-blue) ![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-yellow)
