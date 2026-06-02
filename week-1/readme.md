@@ -1,5 +1,5 @@
-# MEESKOND: Sales Analytics  |  NÄDAL: 1  |  TEGELANE: Toomas Kask
-UrbanStyle andmete puhastamine ja andmekvaliteedi koondraport
+#  NÄDAL: 1  UrbanStyle andmete puhastamine ja andmekvaliteedi koondraport
+
 ## Projekti eesmärk
 
 UrbanStyle’i kliendi-, toote- ja müügiandmetes esines mitu andmekvaliteedi probleemi, mis moonutasid müügitulu, kliendianalüüsi ja tootevaliku hindamist.
@@ -67,7 +67,7 @@ Analüüsi ja andmete puhastamiseks kasutati:
 - duplikaatide tuvastamine
 - hinnaerinevuste kontroll
 - kliendi- ja tooteandmete võrdlus müügitabeliga
-- 
+  
 ## Kokkuvõte
 UrbanStyle’i andmestikus olid peamised probleemid duplikaadid, hinnaerinevused, tagastuste käsitlus, ostuta kliendid ja müümata tooted.
 
