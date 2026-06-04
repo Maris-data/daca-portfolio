@@ -75,21 +75,21 @@ Iga kliendi kohta arvutati viimase ostu kaugus, ostude arv ja kogukäive. Seejä
 
 Esimene Plotly diagramm näitas, kuidas UrbanStyle’i kliendibaas jaguneb RFM segmentidesse.
 
+<img width="1182" height="590" alt="image" src="https://github.com/user-attachments/assets/cdc8d6f9-e4c9-4ae4-a933-8dd2e125e419" />
+
 ### Äritõlgendus
 
 Potential segment moodustab 30% kliendibaasist. Need kliendid ei ole veel kõige lojaalsemad, kuid neil on eeldus kasvada püsiklientideks, kui neid toetada kordusostu pakkumiste ja personaalsema kommunikatsiooniga.
 
-## Diagramm 2: käibe jaotus segmentide lõikes
+## Diagramm 2: Kliendisegmentide ostukäitumine 
 
-Teine diagramm näitas, millised kliendisegmendid annavad suurima osa käibest.
+Teine diagramm näitas, UrbanStyle kliendisegmendi ostukäitumist
+
+<img width="1222" height="613" alt="image" src="https://github.com/user-attachments/assets/acbf6d88-8ec5-4bc1-bac3-acd2f0a56ca4" />
 
 ### Äritõlgendus
 
 VIP kliendid moodustavad ainult 18% kliendibaasist, kuid annavad 43% kogukäibest. See näitab tugevat kontsentratsiooni: väike osa klientidest loob väga suure osa ettevõtte tulust.
-
-## Diagramm 3: At Risk segment ja taastamise potentsiaal
-
-Kolmas diagramm keskendus At Risk klientidele ning näitas nende osakaalu ja käibepotentsiaali.
 
 ### Äritõlgendus
 
