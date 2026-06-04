@@ -40,7 +40,7 @@ Suvekuudel on käive ja külastatavus kordades kõrgem kui talvel. Jaanuaris kuk
 
 Probleem ei ole ainult müügis. Pärnu poe väike pindala tähendab, et iga ruutmeeter peab teenima võimalikult palju käivet. Kui riiulitel on aeglaselt liikuvad tooted või laoseisuandmed ei vasta tegelikkusele, jääb osa potentsiaalist kasutamata.
 
-## Conflict: hooajalisus ja laoseisu müsteerium
+## Hooajalisus ja laoseisu müsteerium
 
 Pärnu poe tulemuslikkust mõjutavad kaks peamist konflikti.
 
@@ -72,8 +72,9 @@ Dashboardi soovituslik ülesehitus:
 2. **Müügitulu ajas** — hooajalisuse ja talvise languse näitamine.
 3. **Suvekuude mõju** — kui suur osa käibest tuleb hooajast.
 4. **Laoseisu täpsus ja TOP 5 suvetooted** — kas andmed vastavad tegelikkusele.
-5. **Ruutmeetri efektiivsus** — väikese pinna mõju müügipotentsiaalile.
-6. **Soovitused** — operatsioonide audit, varude korrastamine ja talvekampaaniad.
+5. **Soovitused** — operatsioonide audit, varude korrastamine ja talvekampaaniad.
+
+<img width="938" height="473" alt="image" src="https://github.com/user-attachments/assets/7db9c770-3503-4d59-a95b-6c099d7a7003" />
 
 ## Peamised KPI-d
 
@@ -122,7 +123,7 @@ Pärnu on efektiivne müügipunkt, kuid selle potentsiaal on pärsitud ebatäpse
 
 Pärnu puhul ei ole põhiküsimus „kas pood on liiga väike“, vaid „kas 70 m² töötab piisavalt targalt“. Praegu on osa pinnast seotud aeglaselt liikuvate toodetega ja osa müügist jääb realiseerimata, sest laoseisuinfo ei ole usaldusväärne.
 
-## Resolution & Action: mida Pärnuga teha?
+## Mida Pärnuga teha?
 
 ### 1. Viia läbi Pärnu poe operatsioonide ja varude audit
 
@@ -182,7 +183,7 @@ Pärnu pood annab 8% kogukäibest, kuid selle roll on suurem kui number näitab.
 
 Pärnu peamine piirang ei ole nõudluse puudumine, vaid operatsiooniline täpsus: väike pindala, ebatäpsed laoseisuandmed ja aeglaselt liikuvad varud vähendavad müügipotentsiaali. Kui need probleemid lahendada, saab Pärnu pood töötada efektiivsemalt ja toetada brändi kasvu hooajalises turus.
 
-## Tehniline pinurida
+## Tehnilised tööriistad
 
 - **Power BI** — dashboardi koostamine ja visualiseerimine.
 - **Excel** — andmete ettevalmistus ja kontroll.
@@ -190,7 +191,17 @@ Pärnu peamine piirang ei ole nõudluse puudumine, vaid operatsiooniline täpsus
 - **Data visualization** — graafikute valik ja loetavuse parandamine.
 - **Storytelling dashboard design** — andmete sidumine selge ärilise narratiiviga.
 
-## Näidis-DAX mõõdikud
+### AI kasutamine
+
+AI-d kasutati Pärnu äriprobleemi sõnastamiseks ja investoritele mõeldud loo selgemaks muutmiseks. AI aitas siduda tehnilised leiud ärilise konfliktiga: hooajalisus, väike pindala ja ebatäpne laoseis.
+
+### Kokkuvõte
+
+Pärnu pood on väike, hooajaline ja piiratud müügipinnaga, kuid mitte nõrk. 2024. aastal kasvas müügitulu 4%, suvekuud annavad 29% käibest ja pood toetab UrbanStyle’i nähtavust suvepealinnas.
+
+Peamine risk on operatsiooniline: laoseisuandmed ei ole usaldusväärsed ja aeglaselt liikuvad tooted võtavad väärtuslikku riiulipinda. Pärnu potentsiaali avamiseks tuleb teha varude audit, optimeerida sortiment kiiremini liikuvate toodete suunas ja testida talvekampaaniaid SPA-külastajatele.
+
+
 
 ### Pärnu käive
 
