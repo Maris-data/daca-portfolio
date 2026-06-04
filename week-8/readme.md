@@ -26,3 +26,4 @@ VÄLJUND: data_fetcher.py — 3 funktsiooni, mis tagastavad DataFrame'e
 Notebook LM aitas materjale läbitöötada. 
 API integratsioonid olid keerulised ja Claude aitas suunata ja koodigenereerimisel 
 
+<img width="1538" height="857" alt="image" src="https://github.com/user-attachments/assets/5b91afc9-1617-4d18-af44-8210c08c1c22" />
