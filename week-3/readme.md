@@ -1,4 +1,4 @@
-## Week 3: Andmete ühendamine
+## Nädal 3: Andmete ühendamine
 
 - Relatsioonide mõistmine ja andmebaasi normaliseerimise loogika
 - JOIN- kasutamine ja mitme tabeli ühendamine
