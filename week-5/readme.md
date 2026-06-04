@@ -169,6 +169,20 @@ Dashboardi loogiline järjestus:
 3. lõpuks uute klientide trend;
 4. allosas lühike äriline kokkuvõte ja soovitused.
 
+### AI kasutamine
+
+Kasutasin AI-d visualiseerimise põhimõtete täpsustamiseks, äritõlgenduste sõnastamiseks ja dashboardi ülesehituse läbimõtlemiseks. AI aitas muuta tehnilised tulemused investoritele arusaadavaks narratiiviks.
+
+Lõplikud leiud ja soovitused põhinesid UrbanStyle’i müügi- ja kliendiandmete analüüsil.
+
+### Kokkuvõte
+
+Week 5 näitas, et hea dashboard ei ole ainult graafikud, vaid otsustamise tööriist.
+
+UrbanStyle’i: kogutulu on 2,97 mln eurot, Tallinna pood on suurim müügitulu allikas ja online-kanal kasvab.
+
+Peamine risk on uute klientide arvu langus. See vajab kiiret tähelepanu, sest tulevane kasv sõltub sellest, kas UrbanStyle suudab lisaks olemasolevatele klientidele tuua juurde uusi ostjaid.
+
 
 <img width="645" height="265" alt="image" src="https://github.com/user-attachments/assets/aab75380-e4a9-408a-8383-c6ce5f9965bb" />
 
@@ -182,7 +196,3 @@ SELECT
     COUNT(DISTINCT customer_id) AS active_customers,
     ROUND(AVG(total_amount), 2) AS avg_order_value
 FROM sales;
-
-
-
-
