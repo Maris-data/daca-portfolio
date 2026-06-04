@@ -82,6 +82,9 @@ AI-d kasutati seadistusvigade lahendamiseks, SQL-i süntaksi mõistmiseks, GitHu
 
 AI aitas kiirendada õppimist, kuid lõplikud töövoo valikud, seadistused ja esitlus jäid meeskonna vastutada.
 
+<img width="951" height="912" alt="image" src="https://github.com/user-attachments/assets/612c1c0d-2a87-4677-94d6-7a499fd1e9f8" />
+
+
 ## Järgmised sammud
 
 Järgmises etapis saab keskenduda UrbanStyle’i kliendiandmete sisulisele analüüsile:
