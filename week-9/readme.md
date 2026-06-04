@@ -236,9 +236,12 @@ Kõige olulisemad tulemused: automatiseeritud andmetoru, 99,8% töökindlus, 4 t
 
 ## AI kasutamine
 
-AI-d kasutati portfoolio hindamise struktuuri täpsustamiseks, tehniliste oskuste sõnastamiseks, värbamissoovituse argumenteerimiseks ja intervjuuküsimuste koostamiseks. AI aitas muuta hindamise selgemaks ja tööandja vaates praktilisemaks.
+AI-d kasutati portfoolio hindamise struktuuri täpsustamiseks, tehniliste oskuste sõnastamiseks, värbamissoovituse argumenteerimiseks ja intervjuuküsimuste koostamiseks. AI aitas 5-minutiline investor pitchi koostamisel. 
 
 AI kasutamise juures oli oluline kontrollida, et lõplik hinnang põhineks portfoolios nähtavatel töödel, mitte üldistel oletustel.
+
+<img width="1105" height="617" alt="image" src="https://github.com/user-attachments/assets/449bca87-1d3c-46f6-90cf-a8e9517cb8b6" />
+
 
 ## Kokkuvõte
 
