@@ -131,7 +131,17 @@ Parandada saab eelkõige:
 <img width="1875" height="1055" alt="image" src="https://github.com/user-attachments/assets/db08baca-3bbc-40df-bef1-6f66173ac2a7" />
 
 ### AI kasutamine
-Kasutasin aknafunktsiooni selgitamisel ja CTE vahetabelite loomisel ning  äriliste järelduste sõnastamisel. 
+
+Kasutasin AI-d aknafunktsioonide selgitamisel, CTE vahetabelite loomisel ja äriliste järelduste sõnastamisel. AI aitas tehnilisi SQL-i mõisteid kiiremini mõista ning muuta päringutulemused selgemateks ärilisteks tähelepanekuteks.
+
+Lõplikud järeldused põhinesid analüüsi tulemustel ja minu enda tõlgendusel.
+
+### Kokkuvõte
+
+Nädal 4 näitas, kuidas SQL-i agregeerimise tööriistad aitavad liikuda üksikutelt müügiridadelt äriliste otsusteni. Kõige olulisemad leiud olid meeste riiete suur müügimaht, jalanõude tugev käibepositsioon, lasteriiete kõrge efektiivsus ja aksessuaaride kasvupotentsiaal.
+
+Järgmine praktiline samm on siduda need leiud lao, hinnastuse ja turunduse otsustega: tellida juurde tugeva müügiga tooteid, parandada aksessuaaride nähtavust ning kasutada VIP-klientide infot sihitud pakkumistes.
+
 ## Näidis-SQL päringud
 
 ### Müük kategooriate lõikes
