@@ -36,6 +36,9 @@ Duplikaadid paisutasid tulu ning andsid tegelikust müügist vale pildi.
 - Tooteanalüüs
 12 toodet ei olnud kordagi müüdud. Nende puhul tuleb kontrollida nähtavust, hinda, saadavust ja tooteandmete korrektsust.
 
+<img width="607" height="230" alt="image" src="https://github.com/user-attachments/assets/094fa5cb-0767-4946-a73d-d1dd5454baae" />
+
+
 ## Soovitused Toomasele
 1. Eemalda duplikaadid enne igat tuluanalüüsi. Duplikaadid mõjutasid müügitulu kõige rohkem. Analüüsides tuleb kasutada ainult puhastatud andmestikku.
 
