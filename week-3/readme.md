@@ -9,8 +9,6 @@
 
 Lao seis: Laos on 12 müümata toodet, mis seisavad käibeta, samal ajal kui populaarsemate toodete laoseis on kriitiliselt madal või nullis.
 
-<img width="614" height="426" alt="image" src="https://github.com/user-attachments/assets/6167a661-7169-42b6-baa6-5cfa73f92eff" />
-
 
 #### Pood on põhikanal
 
