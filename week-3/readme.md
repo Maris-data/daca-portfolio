@@ -5,17 +5,14 @@
 - Tabeli aliase kasutamine
 - Andmete kvaliteedikontroll
   
-
+### Andmemaastik
 
 Lao seis: Laos on 12 müümata toodet, mis seisavad käibeta, samal ajal kui populaarsemate toodete laoseis on kriitiliselt madal või nullis.
 
 <img width="614" height="426" alt="image" src="https://github.com/user-attachments/assets/6167a661-7169-42b6-baa6-5cfa73f92eff" />
 
 
-### Olulisemad leiud: 
-
-
-Pood on põhikanal
+#### Pood on põhikanal
 
 - Efektiivsus (müük kliendi kohta): pood on efektiivsem: pood 835.13 vs online 590.12
 
@@ -25,10 +22,14 @@ Pood on põhikanal
 
 - Kategooriad (madalam panus): aksessuaarid ja eriti lasteriided annavad väiksema kogumüügi.
 
-T
+#### Tooted ja inventuur 
+
 - Müükide arvult on meeste riided esikohal, kuid kogumüügi summa järgi juhivad jalatsid.
+  
 - 12 toodet pole kunagi müüdud
+  
 - Soovitus teha laos inventuur ja tellida juurde tooteid
+  
 - Korralda kampaania seisvatele toodetele ja täienda kiiresti populaarseid tooteid.
 
 ### Soovitus:
@@ -38,3 +39,10 @@ T
 - Kanalite fookus: Keskendu füüsilistele poodidele Tallinnas ja Tartus.
 
 - Kliendisuhtlus: Arenda lojaalsusprogrammi ja hoia püsikliente personaalsete pakkumistega.
+
+### Olulisemad leiud: 
+
+- 20-30% klientidest annab suurima tulu 
+
+- Tallinnas on suurim müük 
+
