@@ -29,7 +29,7 @@ Samuti seadistasime VS Code’i ja Pythoni arenduskeskkonna, et SQL, Python ja G
 
 ### 2. Versioonihalduse ja portfoolio loomine
 
-Lõime GitHubi konto ja kasutasime seda versioonihalduseks. GitHub ei ole ainult failide hoidmise koht, vaid tööriist, mis näitab analüüsi arengut, muudatuste ajalugu ja meeskonna panust.
+Lõime GitHubi konto ja kasutasime seda versioonihalduseks. 
 
 See annab projektile professionaalse portfoolio kuju: töö käik, kood ja dokumentatsioon on hiljem jälgitavad.
 
@@ -53,7 +53,7 @@ Nädal 0 lõpuks valmis toimiv analüütiku töövoo alus:
 - loodud GitHubi repository;
 - seadistatud VS Code’i ja Pythoni arenduskeskkond;
 - kasutusele võetud NotebookLM-i õppekeskkond;
-- loodud meeskonna kokkulepped ja esmane tööstruktuur;
+- loodud meeskonna kokkulepped;
 - läbi viidud esimene demo-esitlus, kus näidati seadistatud süsteeme ja koostööd.
 
 ## Mõju
@@ -70,11 +70,9 @@ See vähendab segadust, parandab koostööd ja teeb analüüsi korratavaks.
 
 ## Peamised õppetunnid
 
-- Andmebaas vähendab Exceli versioonikaost ja loob ühe ühise tõeallika.
-- GitHub on andmeanalüütiku jaoks portfoolio, tööpäevik ja versioonihalduse tööriist.
+- Andmebaas vähendab Exceli versioonikaost.
 - VS Code ühendab SQL-i, Pythoni ja GitHubi üheks praktiliseks töövoaks.
 - NotebookLM aitab õppematerjale kiiremini läbi töötada ja paremaid küsimusi esitada.
-- Vertikaalne töövoog töötab paremini kui eraldi tööriistade õppimine, sest andmed, kood ja tulemused liiguvad koos.
 
 ## AI kasutamine
 
