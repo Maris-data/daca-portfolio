@@ -128,8 +128,6 @@ Parandada saab eelkõige:
 | Aastane käibekasv | Äri üldine kasvutrend |
 
 
-<img width="1875" height="1055" alt="image" src="https://github.com/user-attachments/assets/db08baca-3bbc-40df-bef1-6f66173ac2a7" />
-
 ### AI kasutamine
 
 Kasutasin AI-d aknafunktsioonide selgitamisel, CTE vahetabelite loomisel ja äriliste järelduste sõnastamisel. AI aitas tehnilisi SQL-i mõisteid kiiremini mõista ning muuta päringutulemused selgemateks ärilisteks tähelepanekuteks.
