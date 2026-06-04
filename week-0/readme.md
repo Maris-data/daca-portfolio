@@ -37,7 +37,11 @@ See annab projektile professionaalse portfoolio kuju: töö käik, kood ja dokum
 
 Grupitöö käigus lõime ühise GitHubi repository, Supabase’i projekti, NotebookLM-i notebook’i ja Team Charter’i. See aitas kokku leppida, kuidas meeskond töötab, milliseid tööriistu kasutab ja kuidas ülesandeid jagab.
 
-### Minu roll oli  Õppekeskkonna Notebook LM loomine 
+### Minu roll
+
+Meeskonnale ühise õppekeskkonna Notebook LM loomine 
+
+<img width="1121" height="581" alt="image" src="https://github.com/user-attachments/assets/9dd067f9-1e4b-46fa-95b7-522088bf0afb" />
 
 Laadisin  NotebookLM-i DACA programmi failid ning genereerisime AI Audio Overview kokkuvõtteid. NotebookLM aitas õppematerjale kiiremini läbi töötada, seoseid leida ja tehnilist sisu paremini mõista.
 
