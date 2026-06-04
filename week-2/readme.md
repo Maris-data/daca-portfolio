@@ -65,11 +65,7 @@ Analüüsi ja andmete puhastamiseks kasutati:
 - Python
 - pandas
 - Jupyter Notebook
-- CSV-andmestikud
-- andmekvaliteedi kontrollid
-- duplikaatide tuvastamine
-- hinnaerinevuste kontroll
-- kliendi- ja tooteandmete võrdlus müügitabeliga
+
   
 ## Kokkuvõte
 UrbanStyle’i andmestikus olid peamised probleemid duplikaadid, hinnaerinevused, tagastuste käsitlus, ostuta kliendid ja müümata tooted.
