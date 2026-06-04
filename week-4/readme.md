@@ -1,5 +1,5 @@
 
-### Week 4: Andmete agregeerimine
+### Nädal 4: Andmete agregeerimine
 - Agregaatfunktsioonid (COUNT,AVG, MIN, MAX jm)
 - Filtreerimine ja grupeerimine
 - CTE vahetabelite loomine
