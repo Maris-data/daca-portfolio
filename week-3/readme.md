@@ -46,3 +46,7 @@ Lao seis: Laos on 12 müümata toodet, mis seisavad käibeta, samal ajal kui pop
 
 - Tallinnas on suurim müük 
 
+### AI kasutamine 
+Notebook LM esitluse abil õppisin teooriat 
+<img width="1550" height="859" alt="image" src="https://github.com/user-attachments/assets/bdccfa27-9ae5-4c34-8837-df56b79801c0" />
+Kasutasin ChatGPT ja Claude SQL päringute kontrollimiseks ja äriliste järelduste sõnastuse lihvimiseks.
